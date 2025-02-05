@@ -1,5 +1,5 @@
 ---
-title: "Line Shopping"
+title: "Line Shopping Incubator 2024"
 excerpt: "Receive second runner-up reward in this competition.<br/><img src='/images/line_shopping.jpg'>"
 collection: portfolio
 ---
